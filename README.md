@@ -1,8 +1,8 @@
 # spam_classifer_project
 Building a spam email classifier using svm and logistic regression and compare their performance<br>
 
-<h2>Project Name-Spam email classification</h2> <br>
-<h2>Project description:<\h2><br> <p>In this project, we will build a spam email classifier that can tell whether a given email is a spam email or not based on the email’s content. In email classification, after preprocessing the email contents, we will use two or three machine learning algorithms to train our dataset like logistic regression and support vector machine. By changing the parameters in these algorithm, we can find the best model for these algorithms. After we get the training results from the training set, we will calculate some evaluation matric to discuss our results and judge our models.<\p>  <br>
+<h2>Project Name-Spam email classification</h2>
+<h2>Project description:<\h2><p>In this project, we will build a spam email classifier that can tell whether a given email is a spam email or not based on the email’s content. In email classification, after preprocessing the email contents, we will use two or three machine learning algorithms to train our dataset like logistic regression and support vector machine. By changing the parameters in these algorithm, we can find the best model for these algorithms. After we get the training results from the training set, we will calculate some evaluation matric to discuss our results and judge our models.<\p> 
 <h2>Project plan<\h2>  <br>
 Clean up the data set. Our dataset is from https://www.kaggle.com/veleon/ham-and-spamdataset <br>
 Preprocessing emails. (e.g. turn discount discounts discounted discounting to discount or make every money value replaced by ‘dollar’, like turn ‘400$’ to ‘dollar’) <br>
