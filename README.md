@@ -13,3 +13,5 @@ __In this project, I will build a spam email classifier that can tell whether a 
 - Test our parameters for test set, and get results. 
 - Calculate some evaluation matric to judge our model, such as precision, recall, F1-score and so on.
 - Conclude and discuss the results 
+
+## Result: https://github.com/jiangdada1221/spam_classifer_project/blob/master/spam_classifier.ipynb
