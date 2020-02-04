@@ -15,4 +15,6 @@ __In this project, I will build a spam email classifier that can tell whether a 
 - Conclude and discuss the results 
 
 ## Result: 
-__https://github.com/jiangdada1221/spam_classifer_project/blob/master/spamClassifier.ipynb__
+__https://github.com/jiangdada1221/spam_classifer_project/blob/master/report.pdf__
+## Code:
+
