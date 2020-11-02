@@ -1,5 +1,6 @@
 # spam_classifer_project
 Building a spam email classifier using Naive Bayes Classifier, SVM and logistic regression and compare their performances<br>
+This is my first ML project. Though it is simple, it indicates me being stepping into a new field!
 
 ### Project Name:Spam email classification
 ### Project description:
